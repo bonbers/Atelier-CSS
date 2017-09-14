@@ -1,0 +1,102 @@
+.bg-light {
+background-color: #2D2D2D !important;
+}
+a.haut {
+    color:#9C989C !important;
+}
+
+a.nav-link{
+    color: #99929D !important;
+    float: right !important;
+}
+a.nav-link:hover{
+    background-color: #FD7877;
+    color: white !important;
+}
+a.one{
+    background-color: #FD7877;
+    color: white !important;
+}
+.nav-item{
+    font-weight: bold;
+}
+header {
+    background: url("../images/header-bg.jpg");
+    width : 100%;
+    height: 610px;
+    background-size: cover;
+    margin-top: -200px;
+    text-align: center;
+    color: white;
+}
+header h1{
+    padding-top: 330px;
+}
+.row{
+    text-align: center;
+}
+.first-sect{
+    padding:20px;
+    text-align: center;
+}
+.first{
+    margin-top: 80px;
+}
+.second {
+    background-color: #E0E0E0;
+}
+.container{
+    text-align: center;
+}
+h5 {
+    margin-top: 70px;
+}
+.img-third{
+    width: 90%;
+    margin-top: 80px;
+}
+.p-third{
+    width: 60%;
+   margin: auto;
+}
+.four{
+    background-color: #EBEBEB;
+}
+.img-four{
+    width: 50%;
+    margin: auto;
+}
+.p-four{
+    width: 60%;
+    margin:auto;
+    font-weight: bold;
+    padding-top: 60px;
+}
+.title-five{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+}
+.five{
+    background-color: #FE7877;
+}
+.text-five{
+    width: 60%;
+    margin: auto;
+    color: white;
+    padding-bottom: 80px;
+}
+.last{
+    margin: 20px;
+}
+.six{
+    width: 100%;
+    margin: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #2D2D2D;
+}
+.six i{
+    margin: 20px;
+}
